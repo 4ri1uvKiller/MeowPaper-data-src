@@ -2,7 +2,9 @@
 
 This is a free and open source wallpaper engine made with ClickteamFusion,
 You can download MeowPaper setup here ,too
-I use this repository to open source and save some data
+
+
+I also use this repository to open source and save some data
 ------------------------
 To contribute to this project, you need to have ClickteamFusionDeveloper2.5 installed, You may also report problems or advises in Issues tab, or commit/submit pull request the project file you have modified.
 
